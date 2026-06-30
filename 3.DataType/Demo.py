@@ -22,7 +22,6 @@ x = (10,20,30,40,50) #tuple
 
 x = {10,20,30,40,50} #set
 
-x = frozenset({10,20,30,40,50}) #frozenset
 
 x = None #None
 
@@ -34,5 +33,21 @@ x = range(10) #range
 
 x = [45, 7, 93] #list
 
+x = {
+    "name":"vishal",
+    "age":21,
+    "gender":"male"
+}
+
+x = frozenset({10,20,30,40,50}) #frozenset
+
+x = None
+
+x = b"Vishal" #bytes
+
+x = bytearray({97, 66, 90}) #bytearray
+
+x = memoryview(bytes([66,65,67])) #memoryview
+
 print(x)
-print(x,type(x))
+print(type(x))
