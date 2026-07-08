@@ -19,9 +19,11 @@
 
 # number = [7, 45, 44, 93] // List to tuple
 # string = "Vishal" // String to tuple
-color = {"red", "green"} # Set to tuple 
+# color = {"red", "green"}  Set to tuple 
+r = range(5) # Range to tuple
 
 # x = tuple(number)
 # x = tuple(string)
-x = tuple(color)
+# x = tuple(color)
+x = tuple(r)
 print(x)
