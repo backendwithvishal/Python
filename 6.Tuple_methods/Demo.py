@@ -16,3 +16,12 @@
 # x = min(number)
 # x = len(number)
 # print(x)
+
+# number = [7, 45, 44, 93] // List to tuple
+# string = "Vishal" // String to tuple
+color = {"red", "green"} # Set to tuple 
+
+# x = tuple(number)
+# x = tuple(string)
+x = tuple(color)
+print(x)
