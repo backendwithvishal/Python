@@ -9,6 +9,19 @@ student = {
     "skills": ["Java", "Python", "Node.js"]
 }
 
+# if else with dictionary
+if "city" in student:
+    print("Key Found ✅")
+    print(student["city"])
+else :
+    print("Key Not Found ❌") 
+
+# for value in student.values():
+    # print(value)
+
+# for key, value in student.items():
+#     print(key, " : ", value)
+
 # second type to create a dictionary
 # student = {}
 # student = dict(
