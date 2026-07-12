@@ -9,9 +9,13 @@ b = 22/7
 print(type(b))
 
 # Compax datatype
-d = 4+4j
+c = 4+4j
+print(type(c))
+
+#String datatype
+d = "Aryan"
 print(type(d))
 
 #String datatype
-c = "Aryan"
-print(type(c))
+e = 'Aryan'
+print(type(e))
