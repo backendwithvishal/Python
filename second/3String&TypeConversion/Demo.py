@@ -52,8 +52,11 @@ print(type(a))
 print(type(b)) '''
 
 # Boolean Conversion
-a = 89
+''' a = 89
 b = ''
 
 print(bool(a))
-print(bool(b))
+print(bool(b)) '''
+
+a = 12
+print(a/2)
