@@ -21,3 +21,5 @@ print(a[14:18])
 print(a[0:5]) '''
 
 # Type Conversion
+
+
