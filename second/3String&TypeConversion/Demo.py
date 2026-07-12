@@ -20,3 +20,4 @@ print(a[14:18])
 # Hello
 print(a[0:5]) '''
 
+# Type Conversion
