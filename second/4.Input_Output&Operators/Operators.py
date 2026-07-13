@@ -25,6 +25,14 @@ print(a//6) '''
 
 print(2 * 10 / 7) '''
 
+"""
+() — Brackets
+** — Exponent (right to left: 2**2**3 = 2**(2**3))
+* / // % — Multiplication, Division, Floor Division, Modulus
++ - — Addition, Subtraction
+"""
+
 print(3 + 4 * 2)
 print(15 // 4 + 15 % 4)
 print(3 + 2 ** 2 * 5 - 1)
+
