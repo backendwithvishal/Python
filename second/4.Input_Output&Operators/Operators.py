@@ -48,3 +48,12 @@ print(56 >= 88)
 print(89 <= 96)
 print(23 != 32) '''
 
+# logical opertors
+# and, or, not 
+
+# and operator
+# it will give true only when the both conditions are true
+# print(18 > 10 and 45 == 45 ) 
+
+print(89 == 90 or 23 == 78 or 32 == 32)
+
