@@ -32,7 +32,19 @@ print(2 * 10 / 7) '''
 + - — Addition, Subtraction
 """
 
-print(3 + 4 * 2)
+''' print(3 + 4 * 2)
 print(15 // 4 + 15 % 4)
-print(3 + 2 ** 2 * 5 - 1)
+print(3 + 2 ** 2 * 5 - 1) '''
+
+# ============================================== #
+
+# Comparison Operators
+# (), >=, <=, ==, !=, >, <
+
+''' print(18 == 18)
+print(18 > 25)
+print(45 < 7)
+print(56 >= 88)
+print(89 <= 96)
+print(23 != 32) '''
 
