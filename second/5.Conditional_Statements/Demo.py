@@ -59,10 +59,21 @@ else:
 
 #Question 5
 
-name = input("pls tell your name: ")
+''' name = input("pls tell your name: ")
 age = int(input("pls add your age: "))
 
 if age >= 18:
     print(f"{name} Pls add your age and u can vote ")
 else:
-    print(f"{name} u can't vote go back to home and u can vote after { 18 - age} years")
+    print(f"{name} u can't vote go back to home and u can vote after { 18 - age} years") '''
+
+# Question 6
+
+''' year = int(input("pls tell the year: "))
+if year % 100 == 0 and year % 400 == 0:
+    print("This is the leap year")
+elif year % 100 != 0 and year % 400 == 0:
+    print("This is the leap year")
+else:
+    print("This is not a leap year") '''
+
