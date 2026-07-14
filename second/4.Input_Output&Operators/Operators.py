@@ -61,4 +61,14 @@ print(23 != 32) '''
 
 # not operator
 # it will give opposite of the condition
-print(not(18 == 18))
+# print(not(18 == 18))
+
+# Assignment operator
+
+a = 12
+
+b = 20
+
+a += b
+
+print ( a )
