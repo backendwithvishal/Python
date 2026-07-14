@@ -77,3 +77,15 @@ elif year % 100 != 0 and year % 400 == 0:
 else:
     print("This is not a leap year") '''
 
+# Question 7
+
+temp = int(input("Add the current temperature: "))
+
+if temp >= -5 and temp <=5:
+    print("Very cold")
+elif temp >= 6 and temp <= 18:
+    print("Cold")
+elif temp >= 19 and temp <= 45:
+    print("Hot")
+else:
+    print("Very Hot")
