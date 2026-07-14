@@ -56,3 +56,13 @@ if a % 2 == 0:
     print("Even no")
 else:
     print("Odd no") ''' 
+
+#Question 5
+
+name = input("pls tell your name: ")
+age = int(input("pls add your age: "))
+
+if age >= 18:
+    print(f"{name} Pls add your age and u can vote ")
+else:
+    print(f"{name} u can't vote go back to home and u can vote after { 18 - age} years")
